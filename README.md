@@ -1,1 +1,1 @@
-# ElectronTransfer
+# Electron Transfer Theory
