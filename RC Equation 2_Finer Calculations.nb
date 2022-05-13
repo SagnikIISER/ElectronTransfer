@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[     53913,       1073]
-NotebookOptionsPosition[     52392,       1038]
-NotebookOutlinePosition[     52834,       1055]
-CellTagsIndexPosition[     52791,       1052]
+NotebookDataLength[     70688,       1461]
+NotebookOptionsPosition[     66287,       1396]
+NotebookOutlinePosition[     66729,       1413]
+CellTagsIndexPosition[     66686,       1410]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -114,9 +114,8 @@ Cell[BoxData[{
    3.8611848621333017`*^9, 3.861184866354604*^9}, 3.8611849422739935`*^9, {
    3.861185532760741*^9, 3.8611855354368315`*^9}, {3.861192374354639*^9, 
    3.861192386556633*^9}, 3.861192417006321*^9, {3.8611930996752987`*^9, 
-   3.8611931054621673`*^9}, {3.8613552157381244`*^9, 
-   3.861355229179844*^9}},ExpressionUUID->"db51d32f-c7b6-4d1e-89ea-\
-ade4c66e51f3"],
+   3.8611931054621673`*^9}, {3.8613552157381244`*^9, 3.861355229179844*^9}},
+ CellLabel->"In[3]:=",ExpressionUUID->"db51d32f-c7b6-4d1e-89ea-ade4c66e51f3"],
 
 Cell[CellGroupData[{
 
@@ -128,32 +127,38 @@ Cell[BoxData[
      RowBox[{
       RowBox[{
        RowBox[{
-        RowBox[{"(", "#", ")"}], "*", ".25"}], "&"}], ",", 
-      RowBox[{"{", "4", "}"}]}], "]"}]}], "+", "7.75"}]}]], "Input",
- CellChangeTimes->{{3.8611987986145096`*^9, 3.8611988124053764`*^9}, {
-  3.861201570889022*^9, 3.861201574228252*^9}, {3.8612016359426374`*^9, 
-  3.8612016732541614`*^9}, {3.8612031356472807`*^9, 3.8612031737884865`*^9}, {
-  3.8612035222551055`*^9, 3.861203524257643*^9}, {3.861203805907652*^9, 
-  3.86120381816203*^9}, {3.86120401027416*^9, 3.8612040128224373`*^9}, {
-  3.8612042747661514`*^9, 3.8612042761341076`*^9}, {3.861352988025749*^9, 
-  3.861353013489869*^9}, {3.8613530736346235`*^9, 3.8613530824028263`*^9}, {
-  3.8613549607381144`*^9, 3.861354960938835*^9}, {3.8613560668824043`*^9, 
-  3.861356071458554*^9}, {3.861357327087245*^9, 3.861357330633542*^9}, {
-  3.8613573778963566`*^9, 3.8613573789200125`*^9}, {3.861357410097147*^9, 
-  3.8613574104563217`*^9}, {3.861358692691759*^9, 3.8613586943918066`*^9}, {
-  3.8613587563176885`*^9, 3.8613587600226936`*^9}},
- CellLabel->"In[30]:=",ExpressionUUID->"eb682a97-d272-4a5f-93ff-8ba4aea4c6ee"],
+        RowBox[{"(", "#", ")"}], "*", ".125"}], "&"}], ",", 
+      RowBox[{"{", "8", "}"}]}], "]"}]}], "+", "3."}]}]], "Input",
+ CellChangeTimes->CompressedData["
+1:eJwdyk0og3EcwPHHctAoDpt52aY5yOZghclLtGZ6EvPSDpo5bMiKZe2glBZt
+ZGsnB2rh4DCzZspQU1vUsxSLMrGDHEYalsSsIeX/+x2+fS5fkX5qYIxFUZSQ
+BBZ5Y99uJiWPZ52/4L1Zq/YQb3tO0WKJRQvyKqt14OJhmrdNpFuCfDAmpmlw
+vW0Jnc0PTYCaWqURfI3QC6Ch34X22Qbd4FqXDX2/mlN8EFk7u53gjapeBaYf
+unvBzQ1e8yd8bCHqadUy4IzvDT08S+jSxB+lWg+m/a0GMGwaRq/LFZOg1KVC
+HytXCr6IfnsUnZc4OGAySHHB3BGZIEP8KD2qABfHLy2cSEpe4n5Ck7I7K7jR
+JLWBQw2qGi5RZp5DmWcfA9blhNC8wpPJYmJ0OoF6BMZ2HjH1kkW36FV2CdFZ
+KMkHHXoLHzSN2lF3QPAH7p9r0Lj3IFxKvFhmH4PW+TIG7BBVoXpxZq+M+Nh4
+FwD/AResCTU=
+  "],
+ CellLabel->"In[43]:=",ExpressionUUID->"eb682a97-d272-4a5f-93ff-8ba4aea4c6ee"],
 
 Cell[BoxData[
  RowBox[{"{", 
-  RowBox[{"8.`", ",", "8.25`", ",", "8.5`", ",", "8.75`"}], "}"}]], "Output",
+  RowBox[{
+  "3.125`", ",", "3.25`", ",", "3.375`", ",", "3.5`", ",", "3.625`", ",", 
+   "3.75`", ",", "3.875`", ",", "4.`"}], "}"}]], "Output",
  CellChangeTimes->{{3.8611988031001883`*^9, 3.861198812964098*^9}, 
    3.8612016819992876`*^9, 3.8612031747613893`*^9, 3.86120352589096*^9, 
    3.861203818881942*^9, 3.8612040135462875`*^9, 3.861204281276289*^9, {
    3.8613530782998953`*^9, 3.8613530851990004`*^9}, 3.8613549618176203`*^9, 
    3.861356072152415*^9, 3.861357411154255*^9, 3.8613586957041216`*^9, 
-   3.861358760429582*^9},
- CellLabel->"Out[30]=",ExpressionUUID->"59021919-5595-46fd-a234-beffb5aebdf6"]
+   3.861358760429582*^9, {3.86136087537155*^9, 3.861360894889535*^9}, 
+   3.8614230957128277`*^9, 3.861423137807773*^9, 3.8614244765986595`*^9, 
+   3.8614257023835406`*^9, 3.8614270475602264`*^9, 3.861428736220887*^9, 
+   3.8614305011137805`*^9, 3.8614322993856993`*^9, 3.8614338463139625`*^9, {
+   3.8614338802684336`*^9, 3.8614338895805707`*^9}, {3.861435801610469*^9, 
+   3.8614358076227045`*^9}},
+ CellLabel->"Out[43]=",ExpressionUUID->"d541e58e-3e51-41ff-a7d6-78987c451c14"]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -660,10 +665,10 @@ Cell[BoxData[
     RowBox[{
      RowBox[{
       RowBox[{"BetaLow", "=", 
-       RowBox[{"BetaHigh", "-", "0.25"}]}], ";", "\[IndentingNewLine]", 
+       RowBox[{"BetaHigh", "-", "0.125"}]}], ";", "\[IndentingNewLine]", 
       "\[IndentingNewLine]", 
-      RowBox[{"AlphaHigh", "=", "5.0"}], ";", " ", "\[IndentingNewLine]", 
-      RowBox[{"AlphaLow", "=", "4.5"}], ";", "\[IndentingNewLine]", 
+      RowBox[{"AlphaHigh", "=", "2.5"}], ";", " ", "\[IndentingNewLine]", 
+      RowBox[{"AlphaLow", "=", "2."}], ";", "\[IndentingNewLine]", 
       "\[IndentingNewLine]", 
       RowBox[{"grid", "=", "4"}], ";", "\[IndentingNewLine]", 
       "\[IndentingNewLine]", 
@@ -980,8 +985,14 @@ Mathematica\\\\Electron Transfer\\\\Final Diagrams\\\\P_BetaHigh_\>\"", "<>",
    3.861353427132309*^9}, {3.861354926578054*^9, 3.8613549276853685`*^9}, {
    3.8613560894978313`*^9, 3.86135609296513*^9}, 3.8613573218692093`*^9, {
    3.861357381981292*^9, 3.8613573901691575`*^9}, {3.8613586808620515`*^9, 
-   3.861358686636764*^9}},
- CellLabel->"In[31]:=",ExpressionUUID->"eaf3cbe5-750b-4908-8658-66a5db11649f"],
+   3.861358686636764*^9}, {3.861360863414343*^9, 3.8613608660117946`*^9}, {
+   3.86142304628574*^9, 3.861423063151433*^9}, {3.86142452003963*^9, 
+   3.8614245233018093`*^9}, {3.8614257298636093`*^9, 3.86142573836334*^9}, {
+   3.8614270675349207`*^9, 3.8614270702091646`*^9}, {3.8614287241268244`*^9, 
+   3.8614287263353696`*^9}, {3.8614305041582346`*^9, 3.861430513519614*^9}, {
+   3.8614323037794075`*^9, 3.8614323067847347`*^9}, {3.861435816097617*^9, 
+   3.8614358186549716`*^9}},
+ CellLabel->"In[44]:=",ExpressionUUID->"eaf3cbe5-750b-4908-8658-66a5db11649f"],
 
 Cell[CellGroupData[{
 
@@ -993,9 +1004,9 @@ Cell[BoxData[
 \"}]\\) allowed by the MaxPoints or MinStepSize options for independent \
 variable \\!\\(\\*RowBox[{\\\"x\\\"}]\\).\"\>"}]], "Print",
  ShowCellLabel->True,
- CellChangeTimes->{3.86135876350389*^9},
+ CellChangeTimes->{3.8614358192754755`*^9},
  CellLabel->
-  "(kernel 6)",ExpressionUUID->"158046fc-a761-45db-b2e1-f0e299592461"],
+  "(kernel 8)",ExpressionUUID->"a267df3e-47b2-4ed5-95aa-b23bd8ea4c49"],
 
 Cell[BoxData[
  RowBox[{
@@ -1005,9 +1016,9 @@ Cell[BoxData[
 \"}]\\) allowed by the MaxPoints or MinStepSize options for independent \
 variable \\!\\(\\*RowBox[{\\\"x\\\"}]\\).\"\>"}]], "Print",
  ShowCellLabel->True,
- CellChangeTimes->{3.861358763525895*^9},
+ CellChangeTimes->{3.8614358193124924`*^9},
  CellLabel->
-  "(kernel 5)",ExpressionUUID->"77b78c48-070c-4b43-af90-7b7b66638180"],
+  "(kernel 7)",ExpressionUUID->"874d7784-e782-4c31-ab1b-94f8418a1d5c"],
 
 Cell[BoxData[
  RowBox[{
@@ -1017,9 +1028,9 @@ Cell[BoxData[
 \"}]\\) allowed by the MaxPoints or MinStepSize options for independent \
 variable \\!\\(\\*RowBox[{\\\"x\\\"}]\\).\"\>"}]], "Print",
  ShowCellLabel->True,
- CellChangeTimes->{3.861358763551901*^9},
+ CellChangeTimes->{3.8614358193504934`*^9},
  CellLabel->
-  "(kernel 4)",ExpressionUUID->"a97d558f-5639-42ea-bd7c-5fe65ec54e6a"],
+  "(kernel 6)",ExpressionUUID->"f4398334-d37e-46ab-b3d1-a621cae049d2"],
 
 Cell[BoxData[
  RowBox[{
@@ -1029,11 +1040,358 @@ Cell[BoxData[
 \"}]\\) allowed by the MaxPoints or MinStepSize options for independent \
 variable \\!\\(\\*RowBox[{\\\"x\\\"}]\\).\"\>"}]], "Print",
  ShowCellLabel->True,
- CellChangeTimes->{3.8613587635789075`*^9},
+ CellChangeTimes->{3.8614358193875027`*^9},
  CellLabel->
-  "(kernel 3)",ExpressionUUID->"2b61e23c-57ca-4525-83d3-df052324f695"]
+  "(kernel 5)",ExpressionUUID->"aecd95a7-0a9b-4f31-b349-4c473be22d8d"],
+
+Cell[BoxData[
+ RowBox[{
+  StyleBox[
+   RowBox[{"NDSolve", "::", "mxsst"}], "MessageName"], " ", ":", 
+  "  ", "\<\"Using maximum number of grid points \\!\\(\\*RowBox[{\\\"10000\\\
+\"}]\\) allowed by the MaxPoints or MinStepSize options for independent \
+variable \\!\\(\\*RowBox[{\\\"x\\\"}]\\).\"\>"}]], "Print",
+ ShowCellLabel->True,
+ CellChangeTimes->{3.8614358194349103`*^9},
+ CellLabel->
+  "(kernel 4)",ExpressionUUID->"ca2b29df-fff5-499f-bcae-9a9cc86c1e32"],
+
+Cell[BoxData[
+ RowBox[{
+  StyleBox[
+   RowBox[{"NDSolve", "::", "mxsst"}], "MessageName"], " ", ":", 
+  "  ", "\<\"Using maximum number of grid points \\!\\(\\*RowBox[{\\\"10000\\\
+\"}]\\) allowed by the MaxPoints or MinStepSize options for independent \
+variable \\!\\(\\*RowBox[{\\\"x\\\"}]\\).\"\>"}]], "Print",
+ ShowCellLabel->True,
+ CellChangeTimes->{3.8614358194752088`*^9},
+ CellLabel->
+  "(kernel 3)",ExpressionUUID->"0ab615a2-facc-46f4-961e-dd403979ebd5"],
+
+Cell[BoxData[
+ RowBox[{
+  StyleBox[
+   RowBox[{"NDSolve", "::", "mxsst"}], "MessageName"], " ", ":", 
+  "  ", "\<\"Using maximum number of grid points \\!\\(\\*RowBox[{\\\"10000\\\
+\"}]\\) allowed by the MaxPoints or MinStepSize options for independent \
+variable \\!\\(\\*RowBox[{\\\"x\\\"}]\\).\"\>"}]], "Print",
+ ShowCellLabel->True,
+ CellChangeTimes->{3.861435819510208*^9},
+ CellLabel->
+  "(kernel 2)",ExpressionUUID->"25fbf21a-648b-4f01-a215-a6e3da678015"],
+
+Cell[BoxData[
+ RowBox[{
+  StyleBox[
+   RowBox[{"NDSolve", "::", "mxsst"}], "MessageName"], " ", ":", 
+  "  ", "\<\"Using maximum number of grid points \\!\\(\\*RowBox[{\\\"10000\\\
+\"}]\\) allowed by the MaxPoints or MinStepSize options for independent \
+variable \\!\\(\\*RowBox[{\\\"x\\\"}]\\).\"\>"}]], "Print",
+ ShowCellLabel->True,
+ CellChangeTimes->{3.8614358195437894`*^9},
+ CellLabel->
+  "(kernel 1)",ExpressionUUID->"2493e7bf-be28-4ee5-bb4f-79dab0d7b840"],
+
+Cell[BoxData[
+ RowBox[{
+  StyleBox[
+   RowBox[{"NDSolve", "::", "mxsst"}], "MessageName"], " ", ":", 
+  "  ", "\<\"Using maximum number of grid points \\!\\(\\*RowBox[{\\\"10000\\\
+\"}]\\) allowed by the MaxPoints or MinStepSize options for independent \
+variable \\!\\(\\*RowBox[{\\\"x\\\"}]\\).\"\>"}]], "Print",
+ ShowCellLabel->True,
+ CellChangeTimes->{3.861435884218356*^9},
+ CellLabel->
+  "(kernel 1)",ExpressionUUID->"52d16c94-cab5-43aa-9a95-0241ff5d9437"],
+
+Cell[BoxData[
+ RowBox[{
+  StyleBox[
+   RowBox[{"NDSolve", "::", "mxsst"}], "MessageName"], " ", ":", 
+  "  ", "\<\"Using maximum number of grid points \\!\\(\\*RowBox[{\\\"10000\\\
+\"}]\\) allowed by the MaxPoints or MinStepSize options for independent \
+variable \\!\\(\\*RowBox[{\\\"x\\\"}]\\).\"\>"}]], "Print",
+ ShowCellLabel->True,
+ CellChangeTimes->{3.861435884760579*^9},
+ CellLabel->
+  "(kernel 2)",ExpressionUUID->"402bc026-b913-4d2d-a96e-7e9996655e36"],
+
+Cell[BoxData[
+ RowBox[{
+  StyleBox[
+   RowBox[{"NDSolve", "::", "mxsst"}], "MessageName"], " ", ":", 
+  "  ", "\<\"Using maximum number of grid points \\!\\(\\*RowBox[{\\\"10000\\\
+\"}]\\) allowed by the MaxPoints or MinStepSize options for independent \
+variable \\!\\(\\*RowBox[{\\\"x\\\"}]\\).\"\>"}]], "Print",
+ ShowCellLabel->True,
+ CellChangeTimes->{3.861435886667203*^9},
+ CellLabel->
+  "(kernel 3)",ExpressionUUID->"b60803e3-75cc-410e-9e6a-09610745acf9"],
+
+Cell[BoxData[
+ RowBox[{
+  StyleBox[
+   RowBox[{"NDSolve", "::", "mxsst"}], "MessageName"], " ", ":", 
+  "  ", "\<\"Using maximum number of grid points \\!\\(\\*RowBox[{\\\"10000\\\
+\"}]\\) allowed by the MaxPoints or MinStepSize options for independent \
+variable \\!\\(\\*RowBox[{\\\"x\\\"}]\\).\"\>"}]], "Print",
+ ShowCellLabel->True,
+ CellChangeTimes->{3.861435897586503*^9},
+ CellLabel->
+  "(kernel 4)",ExpressionUUID->"c0bee8ff-d2e7-460c-aa2d-bbb83606d331"],
+
+Cell[BoxData[
+ RowBox[{
+  StyleBox[
+   RowBox[{"NDSolve", "::", "mxsst"}], "MessageName"], " ", ":", 
+  "  ", "\<\"Using maximum number of grid points \\!\\(\\*RowBox[{\\\"10000\\\
+\"}]\\) allowed by the MaxPoints or MinStepSize options for independent \
+variable \\!\\(\\*RowBox[{\\\"x\\\"}]\\).\"\>"}]], "Print",
+ ShowCellLabel->True,
+ CellChangeTimes->{3.861435898888161*^9},
+ CellLabel->
+  "(kernel 6)",ExpressionUUID->"93da18b9-5cf2-44ad-9db1-c5565c5f44ef"],
+
+Cell[BoxData[
+ RowBox[{
+  StyleBox[
+   RowBox[{"NDSolve", "::", "mxsst"}], "MessageName"], " ", ":", 
+  "  ", "\<\"Using maximum number of grid points \\!\\(\\*RowBox[{\\\"10000\\\
+\"}]\\) allowed by the MaxPoints or MinStepSize options for independent \
+variable \\!\\(\\*RowBox[{\\\"x\\\"}]\\).\"\>"}]], "Print",
+ ShowCellLabel->True,
+ CellChangeTimes->{3.8614358989511757`*^9},
+ CellLabel->
+  "(kernel 7)",ExpressionUUID->"0d398790-6ab7-47b4-a74e-bd1423bf55d1"],
+
+Cell[BoxData[
+ RowBox[{
+  StyleBox[
+   RowBox[{"NDSolve", "::", "mxsst"}], "MessageName"], " ", ":", 
+  "  ", "\<\"Using maximum number of grid points \\!\\(\\*RowBox[{\\\"10000\\\
+\"}]\\) allowed by the MaxPoints or MinStepSize options for independent \
+variable \\!\\(\\*RowBox[{\\\"x\\\"}]\\).\"\>"}]], "Print",
+ ShowCellLabel->True,
+ CellChangeTimes->{3.861435899427874*^9},
+ CellLabel->
+  "(kernel 8)",ExpressionUUID->"cedeeba5-4277-404c-8b6a-b4d8d746d6c2"],
+
+Cell[BoxData[
+ RowBox[{
+  StyleBox[
+   RowBox[{"NDSolve", "::", "mxsst"}], "MessageName"], " ", ":", 
+  "  ", "\<\"Using maximum number of grid points \\!\\(\\*RowBox[{\\\"10000\\\
+\"}]\\) allowed by the MaxPoints or MinStepSize options for independent \
+variable \\!\\(\\*RowBox[{\\\"x\\\"}]\\).\"\>"}]], "Print",
+ ShowCellLabel->True,
+ CellChangeTimes->{3.861435899654488*^9},
+ CellLabel->
+  "(kernel 5)",ExpressionUUID->"2a2c1ebf-0122-4c35-a5d6-19db78d20793"],
+
+Cell[BoxData[
+ RowBox[{
+  StyleBox[
+   RowBox[{"NDSolve", "::", "mxsst"}], "MessageName"], " ", ":", 
+  "  ", "\<\"Using maximum number of grid points \\!\\(\\*RowBox[{\\\"10000\\\
+\"}]\\) allowed by the MaxPoints or MinStepSize options for independent \
+variable \\!\\(\\*RowBox[{\\\"x\\\"}]\\).\"\>"}]], "Print",
+ ShowCellLabel->True,
+ CellChangeTimes->{3.861435947452888*^9},
+ CellLabel->
+  "(kernel 1)",ExpressionUUID->"d195367b-590d-4dce-aafc-e55c5168b209"],
+
+Cell[BoxData[
+ RowBox[{
+  StyleBox[
+   RowBox[{"General", "::", "stop"}], "MessageName"], " ", ":", 
+  "  ", "\<\"Further output of \\!\\(\\*StyleBox[RowBox[{\\\"NDSolve\\\", \
+\\\"::\\\", \\\"mxsst\\\"}], \\\"MessageName\\\"]\\) will be suppressed \
+during this calculation.\"\>"}]], "Print",
+ ShowCellLabel->True,
+ CellChangeTimes->{3.861435947517907*^9},
+ CellLabel->
+  "(kernel 1)",ExpressionUUID->"ea11172c-92ed-4303-8af0-723436a13bb9"],
+
+Cell[BoxData[
+ RowBox[{
+  StyleBox[
+   RowBox[{"NDSolve", "::", "mxsst"}], "MessageName"], " ", ":", 
+  "  ", "\<\"Using maximum number of grid points \\!\\(\\*RowBox[{\\\"10000\\\
+\"}]\\) allowed by the MaxPoints or MinStepSize options for independent \
+variable \\!\\(\\*RowBox[{\\\"x\\\"}]\\).\"\>"}]], "Print",
+ ShowCellLabel->True,
+ CellChangeTimes->{3.8614359487872524`*^9},
+ CellLabel->
+  "(kernel 2)",ExpressionUUID->"cb8d49ce-f3c3-43ac-98ed-7ac38eef93f0"],
+
+Cell[BoxData[
+ RowBox[{
+  StyleBox[
+   RowBox[{"General", "::", "stop"}], "MessageName"], " ", ":", 
+  "  ", "\<\"Further output of \\!\\(\\*StyleBox[RowBox[{\\\"NDSolve\\\", \
+\\\"::\\\", \\\"mxsst\\\"}], \\\"MessageName\\\"]\\) will be suppressed \
+during this calculation.\"\>"}]], "Print",
+ ShowCellLabel->True,
+ CellChangeTimes->{3.861435948851282*^9},
+ CellLabel->
+  "(kernel 2)",ExpressionUUID->"fab42bb6-655f-4a92-aa53-22d6505e4007"],
+
+Cell[BoxData[
+ RowBox[{
+  StyleBox[
+   RowBox[{"NDSolve", "::", "mxsst"}], "MessageName"], " ", ":", 
+  "  ", "\<\"Using maximum number of grid points \\!\\(\\*RowBox[{\\\"10000\\\
+\"}]\\) allowed by the MaxPoints or MinStepSize options for independent \
+variable \\!\\(\\*RowBox[{\\\"x\\\"}]\\).\"\>"}]], "Print",
+ ShowCellLabel->True,
+ CellChangeTimes->{3.8614359520813656`*^9},
+ CellLabel->
+  "(kernel 3)",ExpressionUUID->"f51b0435-5cbe-4bd4-bcb5-f8276be6a114"],
+
+Cell[BoxData[
+ RowBox[{
+  StyleBox[
+   RowBox[{"General", "::", "stop"}], "MessageName"], " ", ":", 
+  "  ", "\<\"Further output of \\!\\(\\*StyleBox[RowBox[{\\\"NDSolve\\\", \
+\\\"::\\\", \\\"mxsst\\\"}], \\\"MessageName\\\"]\\) will be suppressed \
+during this calculation.\"\>"}]], "Print",
+ ShowCellLabel->True,
+ CellChangeTimes->{3.8614359521479053`*^9},
+ CellLabel->
+  "(kernel 3)",ExpressionUUID->"6e102bdc-5bb9-4f1e-8f80-3ca34cdab64f"],
+
+Cell[BoxData[
+ RowBox[{
+  StyleBox[
+   RowBox[{"NDSolve", "::", "mxsst"}], "MessageName"], " ", ":", 
+  "  ", "\<\"Using maximum number of grid points \\!\\(\\*RowBox[{\\\"10000\\\
+\"}]\\) allowed by the MaxPoints or MinStepSize options for independent \
+variable \\!\\(\\*RowBox[{\\\"x\\\"}]\\).\"\>"}]], "Print",
+ ShowCellLabel->True,
+ CellChangeTimes->{3.8614359734716797`*^9},
+ CellLabel->
+  "(kernel 4)",ExpressionUUID->"f5bc7324-b787-44fb-99ee-30b723dc82a9"],
+
+Cell[BoxData[
+ RowBox[{
+  StyleBox[
+   RowBox[{"General", "::", "stop"}], "MessageName"], " ", ":", 
+  "  ", "\<\"Further output of \\!\\(\\*StyleBox[RowBox[{\\\"NDSolve\\\", \
+\\\"::\\\", \\\"mxsst\\\"}], \\\"MessageName\\\"]\\) will be suppressed \
+during this calculation.\"\>"}]], "Print",
+ ShowCellLabel->True,
+ CellChangeTimes->{3.8614359735326147`*^9},
+ CellLabel->
+  "(kernel 4)",ExpressionUUID->"914647fc-963c-4c69-b79f-0bffbb4a6500"],
+
+Cell[BoxData[
+ RowBox[{
+  StyleBox[
+   RowBox[{"NDSolve", "::", "mxsst"}], "MessageName"], " ", ":", 
+  "  ", "\<\"Using maximum number of grid points \\!\\(\\*RowBox[{\\\"10000\\\
+\"}]\\) allowed by the MaxPoints or MinStepSize options for independent \
+variable \\!\\(\\*RowBox[{\\\"x\\\"}]\\).\"\>"}]], "Print",
+ ShowCellLabel->True,
+ CellChangeTimes->{3.8614359766242924`*^9},
+ CellLabel->
+  "(kernel 6)",ExpressionUUID->"6e66ee57-8050-4ae6-a697-354d9597af5f"],
+
+Cell[BoxData[
+ RowBox[{
+  StyleBox[
+   RowBox[{"General", "::", "stop"}], "MessageName"], " ", ":", 
+  "  ", "\<\"Further output of \\!\\(\\*StyleBox[RowBox[{\\\"NDSolve\\\", \
+\\\"::\\\", \\\"mxsst\\\"}], \\\"MessageName\\\"]\\) will be suppressed \
+during this calculation.\"\>"}]], "Print",
+ ShowCellLabel->True,
+ CellChangeTimes->{3.861435976686306*^9},
+ CellLabel->
+  "(kernel 6)",ExpressionUUID->"be48c82a-55cf-46a0-ab1f-76af9b40d6e0"],
+
+Cell[BoxData[
+ RowBox[{
+  StyleBox[
+   RowBox[{"NDSolve", "::", "mxsst"}], "MessageName"], " ", ":", 
+  "  ", "\<\"Using maximum number of grid points \\!\\(\\*RowBox[{\\\"10000\\\
+\"}]\\) allowed by the MaxPoints or MinStepSize options for independent \
+variable \\!\\(\\*RowBox[{\\\"x\\\"}]\\).\"\>"}]], "Print",
+ ShowCellLabel->True,
+ CellChangeTimes->{3.8614359773833895`*^9},
+ CellLabel->
+  "(kernel 7)",ExpressionUUID->"355ad405-caa9-401c-b608-282f6032b7ce"],
+
+Cell[BoxData[
+ RowBox[{
+  StyleBox[
+   RowBox[{"General", "::", "stop"}], "MessageName"], " ", ":", 
+  "  ", "\<\"Further output of \\!\\(\\*StyleBox[RowBox[{\\\"NDSolve\\\", \
+\\\"::\\\", \\\"mxsst\\\"}], \\\"MessageName\\\"]\\) will be suppressed \
+during this calculation.\"\>"}]], "Print",
+ ShowCellLabel->True,
+ CellChangeTimes->{3.8614359774494095`*^9},
+ CellLabel->
+  "(kernel 7)",ExpressionUUID->"b10db3ef-b7da-4103-9d53-31491b3e38dc"],
+
+Cell[BoxData[
+ RowBox[{
+  StyleBox[
+   RowBox[{"NDSolve", "::", "mxsst"}], "MessageName"], " ", ":", 
+  "  ", "\<\"Using maximum number of grid points \\!\\(\\*RowBox[{\\\"10000\\\
+\"}]\\) allowed by the MaxPoints or MinStepSize options for independent \
+variable \\!\\(\\*RowBox[{\\\"x\\\"}]\\).\"\>"}]], "Print",
+ ShowCellLabel->True,
+ CellChangeTimes->{3.861435977728204*^9},
+ CellLabel->
+  "(kernel 5)",ExpressionUUID->"a1f85ae6-37d9-47a3-b99d-7157a3ede490"],
+
+Cell[BoxData[
+ RowBox[{
+  StyleBox[
+   RowBox[{"General", "::", "stop"}], "MessageName"], " ", ":", 
+  "  ", "\<\"Further output of \\!\\(\\*StyleBox[RowBox[{\\\"NDSolve\\\", \
+\\\"::\\\", \\\"mxsst\\\"}], \\\"MessageName\\\"]\\) will be suppressed \
+during this calculation.\"\>"}]], "Print",
+ ShowCellLabel->True,
+ CellChangeTimes->{3.861435977788248*^9},
+ CellLabel->
+  "(kernel 5)",ExpressionUUID->"4f0dce2b-c14e-4986-a36b-484fa43d523b"],
+
+Cell[BoxData[
+ RowBox[{
+  StyleBox[
+   RowBox[{"NDSolve", "::", "mxsst"}], "MessageName"], " ", ":", 
+  "  ", "\<\"Using maximum number of grid points \\!\\(\\*RowBox[{\\\"10000\\\
+\"}]\\) allowed by the MaxPoints or MinStepSize options for independent \
+variable \\!\\(\\*RowBox[{\\\"x\\\"}]\\).\"\>"}]], "Print",
+ ShowCellLabel->True,
+ CellChangeTimes->{3.861435978156876*^9},
+ CellLabel->
+  "(kernel 8)",ExpressionUUID->"ceca2ca5-6386-4762-8237-3c597ad8ef06"],
+
+Cell[BoxData[
+ RowBox[{
+  StyleBox[
+   RowBox[{"General", "::", "stop"}], "MessageName"], " ", ":", 
+  "  ", "\<\"Further output of \\!\\(\\*StyleBox[RowBox[{\\\"NDSolve\\\", \
+\\\"::\\\", \\\"mxsst\\\"}], \\\"MessageName\\\"]\\) will be suppressed \
+during this calculation.\"\>"}]], "Print",
+ ShowCellLabel->True,
+ CellChangeTimes->{3.8614359782189064`*^9},
+ CellLabel->
+  "(kernel 8)",ExpressionUUID->"93ff5937-6104-42f1-99e9-9d2cbf498e45"]
 }, Open  ]]
-}, Open  ]]
+}, Open  ]],
+
+Cell[BoxData[""], "Input",
+ CellChangeTimes->{{3.861425299034151*^9, 
+  3.8614253229985337`*^9}},ExpressionUUID->"8d7a34ef-dbca-4c03-8c04-\
+39db49800598"],
+
+Cell[BoxData[
+ RowBox[{"Speak", "[", 
+  "\"\<The Calculation is Done, Please Start the new one\>\"", "]"}]], "Input",
+ CellChangeTimes->{{3.861425388753987*^9, 3.8614254123782935`*^9}},
+ CellLabel->"In[45]:=",ExpressionUUID->"297cc1d4-0fa7-4a0b-930c-497fbb824726"]
 }, Open  ]]
 },
 WindowSize->{576, 582},
@@ -1056,24 +1414,54 @@ CellTagsIndex->{}
 Notebook[{
 Cell[CellGroupData[{
 Cell[580, 22, 196, 3, 40, "Subsubsection",ExpressionUUID->"1055639f-9e4a-453f-b27e-a04b59736007"],
-Cell[779, 27, 3786, 91, 300, "Input",ExpressionUUID->"db51d32f-c7b6-4d1e-89ea-ade4c66e51f3"],
+Cell[779, 27, 3803, 90, 300, "Input",ExpressionUUID->"db51d32f-c7b6-4d1e-89ea-ade4c66e51f3"],
 Cell[CellGroupData[{
-Cell[4590, 122, 1235, 22, 26, "Input",ExpressionUUID->"eb682a97-d272-4a5f-93ff-8ba4aea4c6ee"],
-Cell[5828, 146, 574, 9, 28, "Output",ExpressionUUID->"59021919-5595-46fd-a234-beffb5aebdf6"]
+Cell[4607, 121, 905, 21, 26, "Input",ExpressionUUID->"eb682a97-d272-4a5f-93ff-8ba4aea4c6ee"],
+Cell[5515, 144, 1016, 16, 28, "Output",ExpressionUUID->"d541e58e-3e51-41ff-a7d6-78987c451c14"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[6439, 160, 397, 6, 25, "Input",ExpressionUUID->"45572d26-00b4-4178-bbae-a43b2945476c"],
-Cell[6839, 168, 28420, 478, 58, "Output",ExpressionUUID->"99742abe-c350-4749-bf9e-376348123126"]
+Cell[6568, 165, 397, 6, 25, "Input",ExpressionUUID->"45572d26-00b4-4178-bbae-a43b2945476c"],
+Cell[6968, 173, 28420, 478, 58, "Output",ExpressionUUID->"99742abe-c350-4749-bf9e-376348123126"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[35296, 651, 15173, 332, 1826, "Input",ExpressionUUID->"eaf3cbe5-750b-4908-8658-66a5db11649f"],
+Cell[35425, 656, 15630, 338, 1826, "Input",ExpressionUUID->"eaf3cbe5-750b-4908-8658-66a5db11649f"],
 Cell[CellGroupData[{
-Cell[50494, 987, 461, 10, 53, "Print",ExpressionUUID->"158046fc-a761-45db-b2e1-f0e299592461"],
-Cell[50958, 999, 462, 10, 53, "Print",ExpressionUUID->"77b78c48-070c-4b43-af90-7b7b66638180"],
-Cell[51423, 1011, 462, 10, 53, "Print",ExpressionUUID->"a97d558f-5639-42ea-bd7c-5fe65ec54e6a"],
-Cell[51888, 1023, 464, 10, 53, "Print",ExpressionUUID->"2b61e23c-57ca-4525-83d3-df052324f695"]
+Cell[51080, 998, 464, 10, 53, "Print",ExpressionUUID->"a267df3e-47b2-4ed5-95aa-b23bd8ea4c49"],
+Cell[51547, 1010, 464, 10, 53, "Print",ExpressionUUID->"874d7784-e782-4c31-ab1b-94f8418a1d5c"],
+Cell[52014, 1022, 464, 10, 53, "Print",ExpressionUUID->"f4398334-d37e-46ab-b3d1-a621cae049d2"],
+Cell[52481, 1034, 464, 10, 53, "Print",ExpressionUUID->"aecd95a7-0a9b-4f31-b349-4c473be22d8d"],
+Cell[52948, 1046, 464, 10, 53, "Print",ExpressionUUID->"ca2b29df-fff5-499f-bcae-9a9cc86c1e32"],
+Cell[53415, 1058, 464, 10, 53, "Print",ExpressionUUID->"0ab615a2-facc-46f4-961e-dd403979ebd5"],
+Cell[53882, 1070, 462, 10, 53, "Print",ExpressionUUID->"25fbf21a-648b-4f01-a215-a6e3da678015"],
+Cell[54347, 1082, 464, 10, 53, "Print",ExpressionUUID->"2493e7bf-be28-4ee5-bb4f-79dab0d7b840"],
+Cell[54814, 1094, 462, 10, 53, "Print",ExpressionUUID->"52d16c94-cab5-43aa-9a95-0241ff5d9437"],
+Cell[55279, 1106, 462, 10, 53, "Print",ExpressionUUID->"402bc026-b913-4d2d-a96e-7e9996655e36"],
+Cell[55744, 1118, 462, 10, 53, "Print",ExpressionUUID->"b60803e3-75cc-410e-9e6a-09610745acf9"],
+Cell[56209, 1130, 462, 10, 53, "Print",ExpressionUUID->"c0bee8ff-d2e7-460c-aa2d-bbb83606d331"],
+Cell[56674, 1142, 462, 10, 53, "Print",ExpressionUUID->"93da18b9-5cf2-44ad-9db1-c5565c5f44ef"],
+Cell[57139, 1154, 464, 10, 53, "Print",ExpressionUUID->"0d398790-6ab7-47b4-a74e-bd1423bf55d1"],
+Cell[57606, 1166, 462, 10, 53, "Print",ExpressionUUID->"cedeeba5-4277-404c-8b6a-b4d8d746d6c2"],
+Cell[58071, 1178, 462, 10, 53, "Print",ExpressionUUID->"2a2c1ebf-0122-4c35-a5d6-19db78d20793"],
+Cell[58536, 1190, 462, 10, 53, "Print",ExpressionUUID->"d195367b-590d-4dce-aafc-e55c5168b209"],
+Cell[59001, 1202, 441, 10, 37, "Print",ExpressionUUID->"ea11172c-92ed-4303-8af0-723436a13bb9"],
+Cell[59445, 1214, 464, 10, 53, "Print",ExpressionUUID->"cb8d49ce-f3c3-43ac-98ed-7ac38eef93f0"],
+Cell[59912, 1226, 441, 10, 37, "Print",ExpressionUUID->"fab42bb6-655f-4a92-aa53-22d6505e4007"],
+Cell[60356, 1238, 464, 10, 53, "Print",ExpressionUUID->"f51b0435-5cbe-4bd4-bcb5-f8276be6a114"],
+Cell[60823, 1250, 443, 10, 37, "Print",ExpressionUUID->"6e102bdc-5bb9-4f1e-8f80-3ca34cdab64f"],
+Cell[61269, 1262, 464, 10, 53, "Print",ExpressionUUID->"f5bc7324-b787-44fb-99ee-30b723dc82a9"],
+Cell[61736, 1274, 443, 10, 37, "Print",ExpressionUUID->"914647fc-963c-4c69-b79f-0bffbb4a6500"],
+Cell[62182, 1286, 464, 10, 53, "Print",ExpressionUUID->"6e66ee57-8050-4ae6-a697-354d9597af5f"],
+Cell[62649, 1298, 441, 10, 37, "Print",ExpressionUUID->"be48c82a-55cf-46a0-ab1f-76af9b40d6e0"],
+Cell[63093, 1310, 464, 10, 53, "Print",ExpressionUUID->"355ad405-caa9-401c-b608-282f6032b7ce"],
+Cell[63560, 1322, 443, 10, 37, "Print",ExpressionUUID->"b10db3ef-b7da-4103-9d53-31491b3e38dc"],
+Cell[64006, 1334, 462, 10, 53, "Print",ExpressionUUID->"a1f85ae6-37d9-47a3-b99d-7157a3ede490"],
+Cell[64471, 1346, 441, 10, 37, "Print",ExpressionUUID->"4f0dce2b-c14e-4986-a36b-484fa43d523b"],
+Cell[64915, 1358, 462, 10, 53, "Print",ExpressionUUID->"ceca2ca5-6386-4762-8237-3c597ad8ef06"],
+Cell[65380, 1370, 443, 10, 37, "Print",ExpressionUUID->"93ff5937-6104-42f1-99e9-9d2cbf498e45"]
 }, Open  ]]
-}, Open  ]]
+}, Open  ]],
+Cell[65850, 1384, 154, 3, 25, "Input",ExpressionUUID->"8d7a34ef-dbca-4c03-8c04-39db49800598"],
+Cell[66007, 1389, 264, 4, 26, "Input",ExpressionUUID->"297cc1d4-0fa7-4a0b-930c-497fbb824726"]
 }, Open  ]]
 }
 ]
